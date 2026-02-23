@@ -1,24 +1,24 @@
-# Sayan-Chowdhury
-Data Projects
-Airbnb Data Cleaning Project
+# Airbnb Data Cleaning Project
 
-## Project Overview
-This project performs data cleaning on Airbnb Open Data using Python (Pandas).
+## 📌 Project Overview
+This project focuses on cleaning and preprocessing Airbnb Open Data using Python (Pandas).
 
-## Tools Used
+## 🛠 Tools Used
 - Python
 - Pandas
 - Jupyter Notebook
 
-## Steps Performed
-- Loaded dataset
+## 🔎 Data Cleaning Steps
 - Handled missing values
-- Fixed data types
 - Removed duplicates
+- Fixed incorrect data types
 - Cleaned price column
+- Processed review metrics
 
-## Dataset
-Airbnb Open Data (NYC)
+## 📊 Key Insights
+- Most listings are located in Manhattan and Brooklyn
+- Average price varies significantly by neighbourhood
+- Verified hosts tend to have higher review counts
 
-## Author
-Sayan
+## 👤 Author
+Sayan Chowdhury
